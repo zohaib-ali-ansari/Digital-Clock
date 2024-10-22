@@ -20,7 +20,7 @@ function clock() {
         h = h - 12;
     }
 
-    if (h == 00) {
+    if (h == 0) {
         h = 12;
     }
 
